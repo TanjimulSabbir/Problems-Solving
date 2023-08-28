@@ -1,5 +1,6 @@
 // write a function that return the two numbers.
 // write a functin that return the sum of all numbers (regardless of # params)
+// Hint: arthmatic operation, rest operator, forEach()
 
 const TwoNumberSum = (params1, params2) => {
     return params1 + params2
