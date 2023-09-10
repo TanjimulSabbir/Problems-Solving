@@ -4,9 +4,6 @@ const picture = ["abc", "ded"];
 
 const addBorders = (picture) => {
     const base = "*".repeat(picture[0].length + 2);
-    // for (let index = 1; index < base.length; index++) {
-        
-    // }
     picture.push(base);
     picture.unshift(base);
     const output = picture.map(data => {
