@@ -15,4 +15,4 @@ function SumAllNumbers(...Params) {
 }
 
 console.log(TwoNumberSum(1, 4), "TwoNumberSum");
-console.log(SumAllNumbers(1, 2, 3, 5, 6, 7, 8.5, 9), "AllNumerSum");
+console.log(SumAllNumbers(1, 2, 3, 5, 6, 7, 8.5, 9), "AllNumberSum");
