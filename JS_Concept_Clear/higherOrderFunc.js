@@ -47,4 +47,4 @@ const products = shoppingCart.reduce((productGroup, product) => {
     return productGroup;
 }, {});
 
-console.log(products);
+// console.log(products);
