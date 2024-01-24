@@ -12,4 +12,4 @@ const sequence = (inputArray) => {
 
     return result;
 }
-console.log(sequence([0,1,2,5,6]))
+// console.log(sequence([0,1,2,5,6]))
