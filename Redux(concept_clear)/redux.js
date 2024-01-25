@@ -33,5 +33,4 @@ export const store = createStore(CombinedMultiReducer)
 
 // now, just dispatch the action, rest of work will be execute by automatically
 
-
 store.dispatch(increment(1))
